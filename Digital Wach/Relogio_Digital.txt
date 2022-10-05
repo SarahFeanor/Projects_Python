@@ -1,0 +1,24 @@
+RELÓGIO DIGITAL 
+
+Projeto para aprender a trabalhar com hora, dia, mês e ano em Python, criando seu próprio relógio digital.
+
+SOBRE A BIBLIOTECA USADA
+
+Datetime
+Tkinter 
+
+SOBRE A FONTE 
+-- link da fonte usada para o relógio
+   https://www.1001fonts.com/digital-7-f...
+
+-- link da biblioteca pyglet
+   https://pypi.org/project/pyglet/
+
+
+ALARME DIGITAL 
+
+Construindo um Despertador Usando o Python | Alarme em Python | Parte #01 Manipulando Data E Hora em Python
+
+ # Site para icon https://icons8.com/icons/set/alarm
+
+
