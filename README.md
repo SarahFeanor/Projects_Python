@@ -5,7 +5,7 @@
 - Calculadora
 - Relogio digital
 
-### 💡 RELÓGIO DIGITAL 
+### 💡RELÓGIO DIGITAL 
 
 Projeto para aprender a trabalhar com hora, dia, mês e ano em Python.
 
@@ -17,10 +17,17 @@ SOBRE A FONTE
 
  - link da biblioteca pyglet
    https://pypi.org/project/pyglet/
-   
-### 💡 CALCULADORA SIMPLES 
+  
+ #### Display: 
+<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/1026630313960554716/image0.gif"> 
+
+--------------------------------------------
+### 💡CALCULADORA SIMPLES 
 
 Bibliotecas (Tkinter)
+
+#### Display:
+<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/1027215701859115078/image0.gif"> 
 
 
 
