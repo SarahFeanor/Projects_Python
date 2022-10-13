@@ -1,8 +1,6 @@
-## ⚡ Projetos simples para fixação dos conhecimentos adquiridos em Python 
+## ⚡ Projetos Python
 
-<br/>
-
-
+Projetos simples para fixação dos conhecimentos adquiridos em Python 
 
 
 ### 💡 1 - RELÓGIO DIGITAL 
