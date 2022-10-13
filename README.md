@@ -1,11 +1,8 @@
 ## ⚡ Projetos_Python
 
-💻 Projetos de estudo/ fixação de conhecimentos da linguagem Python 
+💻 Projetos simples para fixação dos conhecimentos adquiridos em Python. 
 
-- Calculadora
-- Relogio digital
-
-### 💡RELÓGIO DIGITAL 
+### 💡 1 - RELÓGIO DIGITAL 
 
 Projeto para aprender a trabalhar com hora, dia, mês e ano em Python.
 
@@ -22,7 +19,7 @@ SOBRE A FONTE
 <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/1026630313960554716/image0.gif"> 
 
 --------------------------------------------
-### 💡CALCULADORA SIMPLES 
+### 💡 2 - CALCULADORA SIMPLES 
 
 Bibliotecas (Tkinter)
 
