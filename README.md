@@ -1,4 +1,4 @@
-## ⚡ Projetos Python
+## ⚡ Projetos Python (iniciante)
 
 Projetos simples para fixação dos conhecimentos adquiridos em Python 
 
